@@ -1,0 +1,23 @@
+.white-box{
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0.5px 0.5px 2px 1px #eee;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.border-left{
+    border-left: 2px #f7f9fc solid;
+}
+.border-bottom{
+    border-bottom:  2px #f7f9fc solid;
+
+}
+.pill {
+	display: inline-block;
+	border: 1px solid lightgray;
+	border-radius: 100px;
+	padding: 3px 12px 5px 12px;
+	margin-right: 2px;
+	margin-bottom: 5px;
+}
